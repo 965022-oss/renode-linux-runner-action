@@ -1,5 +1,5 @@
 pexpect==4.8.0
-virtualenv==20.23.0
+virtualenv==20.26.6
 requests==2.27.1
 igraph==0.10.4
 dacite==1.8.1
